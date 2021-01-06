@@ -1,0 +1,7 @@
+com/example/ec/domain/DistrictModel.class
+com/example/ec/repo/CityRepository.class
+com/example/ec/service/CityService.class
+com/example/ec/repo/DistrictRepository.class
+com/example/ec/domain/CityModel.class
+com/example/ec/AllianzhwApplication.class
+com/example/ec/service/DistrictService.class
