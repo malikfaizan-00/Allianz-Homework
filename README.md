@@ -18,7 +18,7 @@ After a lot of startup messages, finally know the application is running when it
 Let's see if the application is accepting requests via the browser. So I'm at a browser and I'm going to hit the application at local host 8080 to see if it's listening. 
 And it prints a json message.
 
-** REST APIs End Point**
+**REST APIs End Point**
 
 Following is the endpoint for retrieval of the whole model 
 - http://localhost:8080/cityModels
